@@ -1,10 +1,11 @@
 public class main{
     public static void main(String[] args) {
         // coding starts here; 
-        Student s1 = new Student("MOHAMMED", 18, "RIYADH");
+        Student s1 = new Student("MOHAMMED", 20, 3.8);
 
         s1.displayInfo();
-        System.out.println(s1);
-
+        s1.study();
+        s1.takeExam();
+        
     }
 }
