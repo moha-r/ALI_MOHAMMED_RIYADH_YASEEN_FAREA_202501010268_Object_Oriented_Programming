@@ -1,4 +1,4 @@
-package tutorial_3;
+package tutorial_3_4;
 
 public class Lecturer extends Person {
 
