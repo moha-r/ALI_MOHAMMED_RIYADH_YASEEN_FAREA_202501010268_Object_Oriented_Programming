@@ -1,5 +1,3 @@
-package tutorial_3;
-
 public class Student extends Person {
 
     public Student(String name, String id) {

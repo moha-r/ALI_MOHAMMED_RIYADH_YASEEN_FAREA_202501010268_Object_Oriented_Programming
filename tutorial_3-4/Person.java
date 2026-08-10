@@ -1,5 +1,3 @@
-package tutorial_3;
-
 public class Person {
 
     private final String name;
