@@ -1,4 +1,4 @@
-# Object-Oriented Programming Fundamentals in Java
+# Assignment 1: Object-Oriented Programming Fundamentals in Java
 
 ## Student Information
 
@@ -23,6 +23,7 @@ This course introduces the fundamental concepts of object-oriented programming u
 ├── .gitignore
 ├── LICENSE
 ├── README.md
+├── myreport.pdf
 ├── tutorial_1/
 │   ├── HelloWorld.java
 │   └── StudentGrade.java
@@ -126,3 +127,7 @@ java QuizBattleGUI
 ## Reflection Summary
 
 Through these tutorials, I improved my understanding of Java and object-oriented programming. I learned how to create classes and objects, protect data using encapsulation, reuse code through inheritance, override methods to support polymorphism, and hide implementation details through abstraction. I also gained practical experience with collections, file handling, Swing interfaces, Git, and GitHub. Completing the exercises helped me become more confident in organizing Java projects, identifying errors, and writing clear and reusable code.
+
+## Self-Reflective Report
+
+The completed self-reflective report is available as a PDF: [View `myreport.pdf`](myreport.pdf).
