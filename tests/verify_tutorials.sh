@@ -24,7 +24,7 @@ compile_tutorial tutorial_10
 java -cp "$verify_root/tutorial_1" HelloWorld | grep -F "Hello, World!"
 java -cp "$verify_root/tutorial_1" StudentGrade | grep -F "Grade: A"
 java -cp "$verify_root/tutorial_2" Main | grep -F "MOHAMMED is taking an exam."
-java -cp "$verify_root/tutorial_3-4" tutorial_3_4.Main | grep -F "I am a lecturer."
+java -cp "$verify_root/tutorial_3-4" Main | grep -F "I am a lecturer."
 java -cp "$verify_root/tutorial_5" Main | grep -F "Programme : BIT"
 java -cp "$verify_root/tutorial_6" Main | grep -F "Department  : Faculty of Information Technology"
 java -cp "$verify_root/tutorial_7" Main | grep -F "Store food & beverages..."
