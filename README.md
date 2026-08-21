@@ -14,7 +14,7 @@
 
 ## Brief Course Description
 
-This course introduces the fundamental concepts of object-oriented programming using Java. The tutorials cover Java syntax, classes and objects, encapsulation, inheritance, polymorphism, abstraction, collections, file handling, and graphical user interface development. This repository contains the practical work completed throughout Tutorials 1–10.
+This course introduces the fundamental concepts of object-oriented programming using Java. The weekly practical work covers Java syntax, classes and objects, encapsulation, inheritance, polymorphism, abstraction, collections, file handling, and graphical user interface development. This repository contains the practical work completed from Week 1 to Week 10.
 
 ## Repository Structure
 
@@ -24,50 +24,50 @@ This course introduces the fundamental concepts of object-oriented programming u
 ├── LICENSE
 ├── README.md
 ├── myreport.pdf
-├── tutorial_1/
+├── week1/
 │   ├── HelloWorld.java
 │   └── StudentGrade.java
-├── tutorial_2/
+├── week2/
 │   ├── Main.java
 │   └── Student.java
-├── tutorial_3-4/
+├── week3-4/
 │   ├── Lecturer.java
 │   ├── Main.java
 │   ├── Person.java
 │   └── Student.java
-├── tutorial_5/
+├── week5/
 │   ├── Main.java
 │   ├── Student.java
 │   └── documentation.txt
-├── tutorial_6/
+├── week6/
 │   ├── Employee.java
 │   ├── Lecturer.java
 │   └── Main.java
-├── tutorial_7/
+├── week7/
 │   ├── Appliance.java
 │   ├── Main.java
 │   ├── Refrigerator.java
 │   └── WashingMachine.java
-├── tutorial_8-9/
+├── week8-9/
 │   ├── Main.java
 │   └── task.txt
-└── tutorial_10/
+└── week10/
     ├── Questions.java
     └── QuizBattleGUI.java
 ```
 
-## Tutorial Summary (Week 1–10)
+## Weekly Work Summary (Week 1–10)
 
-| Tutorial | Topic | Summary |
+| Week | Topic | Summary |
 |---|---|---|
-| [Tutorial 1](tutorial_1/) | Java Basics | Created basic Java programs to display output and determine a student's grade using variables and conditional statements. |
-| [Tutorial 2](tutorial_2/) | Classes and Objects | Created a `Student` class with attributes, a constructor, and methods to display information, study, and take an exam. |
-| [Tutorials 3–4](tutorial_3-4/) | Inheritance and Polymorphism | Used `Person` as a parent class and overrode the `introduce()` method in the `Student` and `Lecturer` subclasses. |
-| [Tutorial 5](tutorial_5/) | Encapsulation | Protected student information with private attributes and provided controlled access through getters and setters. |
-| [Tutorial 6](tutorial_6/) | Inheritance | Extended the `Employee` class with a `Lecturer` class containing subject and department information. |
-| [Tutorial 7](tutorial_7/) | Abstraction | Created an abstract `Appliance` class and implemented different appliance operations using `WashingMachine` and `Refrigerator`. |
-| [Tutorials 8–9](tutorial_8-9/) | ArrayList and File Handling | Built a to-do list using `ArrayList`, accepted user input, saved tasks to a text file, and loaded them again. |
-| [Tutorial 10](tutorial_10/) | Java Swing GUI | Developed a programming quiz interface using Swing components and event handling. |
+| [Week 1](week1/) | Java Basics | Created basic Java programs to display output and determine a student's grade using variables and conditional statements. |
+| [Week 2](week2/) | Classes and Objects | Created a `Student` class with attributes, a constructor, and methods to display information, study, and take an exam. |
+| [Weeks 3–4](week3-4/) | Inheritance and Polymorphism | Used `Person` as a parent class and overrode the `introduce()` method in the `Student` and `Lecturer` subclasses. |
+| [Week 5](week5/) | Encapsulation | Protected student information with private attributes and provided controlled access through getters and setters. |
+| [Week 6](week6/) | Inheritance | Extended the `Employee` class with a `Lecturer` class containing subject and department information. |
+| [Week 7](week7/) | Abstraction | Created an abstract `Appliance` class and implemented different appliance operations using `WashingMachine` and `Refrigerator`. |
+| [Weeks 8–9](week8-9/) | ArrayList and File Handling | Built a to-do list using `ArrayList`, accepted user input, saved tasks to a text file, and loaded them again. |
+| [Week 10](week10/) | Java Swing GUI | Developed a programming quiz interface using Swing components and event handling. |
 
 ## Technologies Used
 
@@ -89,12 +89,12 @@ git clone https://github.com/moha-r/ALI_MOHAMMED_RIYADH_YASEEN_FAREA_20250101026
 cd ALI_MOHAMMED_RIYADH_YASEEN_FAREA_202501010268_Object_Oriented_Programming
 ```
 
-### 2. Open a Tutorial Folder
+### 2. Open a Week Folder
 
 For example:
 
 ```bash
-cd tutorial_5
+cd week5
 ```
 
 ### 3. Compile the Java Files
@@ -105,20 +105,20 @@ javac *.java
 
 ### 4. Run the Project
 
-Most tutorial folders use the `Main` class:
+Most week folders use the `Main` class:
 
 ```bash
 java Main
 ```
 
-Tutorial 1 contains two independent programs:
+Week 1 contains two independent programs:
 
 ```bash
 java HelloWorld
 java StudentGrade
 ```
 
-Tutorial 10 starts the Swing graphical interface with:
+Week 10 starts the Swing graphical interface with:
 
 ```bash
 java QuizBattleGUI
@@ -126,7 +126,7 @@ java QuizBattleGUI
 
 ## Reflection Summary
 
-Through these tutorials, I improved my understanding of Java and object-oriented programming. I learned how to create classes and objects, protect data using encapsulation, reuse code through inheritance, override methods to support polymorphism, and hide implementation details through abstraction. I also gained practical experience with collections, file handling, Swing interfaces, Git, and GitHub. Completing the exercises helped me become more confident in organizing Java projects, identifying errors, and writing clear and reusable code.
+Across these ten weeks, I improved my understanding of Java and object-oriented programming. I learned how to create classes and objects, protect data using encapsulation, reuse code through inheritance, override methods to support polymorphism, and hide implementation details through abstraction. I also gained practical experience with collections, file handling, Swing interfaces, Git, and GitHub. Completing the weekly exercises helped me become more confident in organizing Java projects, identifying errors, and writing clear and reusable code.
 
 ## Self-Reflective Report
 
